@@ -53,9 +53,13 @@ h1 {
 }
 
 .winner {
-    color: #ffffff;
+    color: #fff;
+    border: 5px solid #C8E0F9;
+    border-radius: 5px;
+    padding: 10px;
     font-family: tahoma;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
+    font-weight: bold;
 }
 
 .resetBtn {
