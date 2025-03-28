@@ -48,7 +48,8 @@ const checkWinner = () => {
 
         if (pos1 != "" && pos2 != "" && pos3 != "") {
             if (pos1 === pos2 && pos2 === pos3) {
-                winnerP.innerText = `Winner Is ${pos1}`;
+                winnerP.innerText = `Winner Is "${pos1}"`;
+                winnerP.style.borderBottom = "5px solid #C8E0F9";
                 disableBtns();
                 changeBtn();
             }
