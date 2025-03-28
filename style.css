@@ -12,7 +12,7 @@ h1 {
     font-family: tahoma;
     font-size: 2.5rem;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 40px;
 }
 
 .container {
@@ -40,7 +40,7 @@ h1 {
     border-radius: 5px;
     border: none;
     background-color: #bfdbf7;
-    font-size: 3.5rem;
+    font-size: 4rem;
     font-weight: bold;
     color: #022B3A;
     cursor: pointer;
@@ -54,9 +54,7 @@ h1 {
 
 .winner {
     color: #fff;
-    border: 5px solid #C8E0F9;
-    border-radius: 5px;
-    padding: 10px;
+    padding: 10px 10px 5px 10px;
     font-family: tahoma;
     font-size: 1.5rem;
     font-weight: bold;
