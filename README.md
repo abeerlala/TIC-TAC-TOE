@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe – JavaScript Practice Project
 
-##For Live Demo [Click Here](https://abeerlala.github.io/TIC-TAC-TOE)
+## 🔗 For Live Demo <a href="https://abeerlala.github.io/TIC-TAC-TOE" target="_blank">Click Here</a>
 
 Welcome to my simple **Tic Tac Toe** game! This is a beginner-friendly project I built using **HTML**, **CSS**, and **JavaScript** as part of my practice in learning frontend development.
 
