@@ -23,3 +23,11 @@ Welcome to my simple **Tic Tac Toe** game! This is a beginner-friendly project I
 - Event handling
 - Game logic (win conditions, turns, etc.)
 - Clean code organization and file structure
+
+## 📌 Note
+
+This is a small **practice project** meant to improve my JavaScript fundamentals. Suggestions and feedback are welcome!
+
+---
+
+## 🧑‍💻 Made by [Abeer Khan](https://www.mabeerkhan.com)
